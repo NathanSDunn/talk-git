@@ -1,0 +1,3 @@
+[submodule "git-bisect-demo"]
+	path = git-bisect-demo
+	url = git@github.com:agross/git-bisect-demo.git
